@@ -28,8 +28,8 @@ PaperBark supports a wide variety of customization, therefore we have quite a lo
 
 | Property name | Property type | Default value | Description                   |
 | ------------- | ------------- | ------------- | ----------------------------- |
-| width         | size          | 210cm (A4)    | Width of the PDF              |
-| height        | size          | 297cm (A4)    | Height of the PDF             |
+| width         | size          | 210mm (A4)    | Width of the PDF              |
+| height        | size          | 297mm (A4)    | Height of the PDF             |
 | title         | string        | -             | Alternative for title element |
 | base          | string        | -             | Domain for relative resources |
 | subject       | string        | -             | PDF Metadata                  |
